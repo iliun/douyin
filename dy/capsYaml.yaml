@@ -1,0 +1,11 @@
+platformName: Android
+platformVersion: 9
+deviceName: vivo X21UD A
+udid: 34f5aa6e
+app: shuabao.apk
+appActivity: com.jm.video.ui.main.SplashActivity
+appPackage: com.jm.video
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+ip: 127.0.0.1
